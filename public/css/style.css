@@ -1,0 +1,12 @@
+body {
+background-color : #555;
+color : white;
+text-align : center;
+}
+#messages {
+background-color : #CCD;
+width : 800px;
+height : 300px;
+margin : auto;
+overflow : auto;
+}
